@@ -1,0 +1,170 @@
+
+         *************************
+         ** Welcome to Hristina Koleva F66436 PSP Assigment No. 6
+
+
+         ** Please select given probability:
+
+ For Probability = 0.20          - press <1>
+ For Probability = 0.45          - press <2>
+ For Probability = 0.495         - press <3>
+
+         ** Please press Enter to see the results of the evaluated <t> used to a
+chieve required probability....
+         *************************
+2
+Selected probability is 0.4500000
+Selected DOF is 15
+
+         ------ 0.3334152 ------
+
+                         delta = 0.5000000
+
+                         tIterval = 1.50000
+
+         ------ 0.4228169 ------
+
+                         delta = 0.5000000
+
+                         tIterval = 2.00000
+
+         ------ 0.4680264 ------
+
+                         delta = 0.2500000
+
+                         tIterval = 1.75000
+
+         ------ 0.4497296 ------
+
+                         delta = 0.2500000
+
+                         tIterval = 2.00000
+
+         ------ 0.4680264 ------
+
+                         delta = 0.1250000
+
+                         tIterval = 1.87500
+
+         ------ 0.4598004 ------
+
+                         delta = 0.0625000
+
+                         tIterval = 1.81250
+
+         ------ 0.4550143 ------
+
+                         delta = 0.0312500
+
+                         tIterval = 1.78125
+
+         ------ 0.4524367 ------
+
+                         delta = 0.0156250
+
+                         tIterval = 1.76563
+
+         ------ 0.4510996 ------
+
+                         delta = 0.0078125
+
+                         tIterval = 1.75781
+
+         ------ 0.4504188 ------
+
+                         delta = 0.0039063
+
+                         tIterval = 1.75391
+
+         ------ 0.4500752 ------
+
+                         delta = 0.0019531
+
+                         tIterval = 1.75195
+
+         ------ 0.4499027 ------
+
+                         delta = 0.0019531
+
+                         tIterval = 1.75391
+
+         ------ 0.4500752 ------
+
+                         delta = 0.0009766
+
+                         tIterval = 1.75293
+
+         ------ 0.4499890 ------
+
+                         delta = 0.0009766
+
+                         tIterval = 1.75391
+
+         ------ 0.4500752 ------
+
+                         delta = 0.0004883
+
+                         tIterval = 1.75342
+
+         ------ 0.4500322 ------
+
+                         delta = 0.0002441
+
+                         tIterval = 1.75317
+
+         ------ 0.4500106 ------
+
+                         delta = 0.0001221
+
+                         tIterval = 1.75305
+
+         ------ 0.4499998 ------
+
+                         delta = 0.0001221
+
+                         tIterval = 1.75317
+
+         ------ 0.4500106 ------
+
+                         delta = 0.0000610
+
+                         tIterval = 1.75311
+
+         ------ 0.4500052 ------
+
+                         delta = 0.0000305
+
+                         tIterval = 1.75308
+
+         ------ 0.4500025 ------
+
+                         delta = 0.0000153
+
+                         tIterval = 1.75307
+
+         ------ 0.4500012 ------
+
+                         delta = 0.0000076
+
+                         tIterval = 1.75306
+
+         ------ 0.4500005 ------
+
+                         delta = 0.0000038
+
+                         tIterval = 1.75306
+
+         ------ 0.4500002 ------
+
+                         delta = 0.0000019
+
+                         tIterval = 1.75305
+
+         ------ 0.4500000 ------
+
+         The required value of T is ----- 1.75305 ------
+
+Press Enter twice to exit the program
+
+
+

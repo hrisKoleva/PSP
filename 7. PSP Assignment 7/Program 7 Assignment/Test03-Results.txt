@@ -1,0 +1,27 @@
+ 251.57  179
+ 110.37  62
+ 227.44  92
+ 152.48  138
+ 38.25   83
+ ___________________
+
+  Regression parameter B0 is 56.1388
+  Regression parameter B1 is 0.3503
+  ImprovedPrediction P for the given E is 87.2808
+ ___________________
+
+  Correlation coefficient r is 0.6454
+  Correlation coefficient r^2 is 0.4165
+ ___________________
+
+  Calculated Significance is 2.395668E-001
+ ___________________
+
+
+  ----- RANGE is 60.3952720760528 -----
+ ___________________
+
+  ----- LPI (70%) = 26.8855051519296 -----
+ ___________________
+
+  ----- UPI (70%) = 147.676049304035 -----

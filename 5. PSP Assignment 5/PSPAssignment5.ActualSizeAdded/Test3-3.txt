@@ -1,0 +1,285 @@
+
+         *************************
+         ** Welcome to Hristina Koleva F66436 PSP Assigment No. 5
+
+
+         ** Please select degrees of freedom:
+
+ For " Degrees of freedom = 9"   - press <1>
+ For "Degrees of freedom = 10"   - press <2>
+ For "Degrees of freedom = 30"   - press <3>
+
+         ** Please press Enter to see the results of the calculation of Student
+T distribution probability density function....
+         *************************
+3
+Selected tInterval is 2.7500000
+Selected DOF is 30
+
+         The values of function parameters for 10 number of segments are...
+
+         Press enter for next results...
+
+
+         X[0] = 0.0000
+
+         X[1] = 0.2750
+
+         X[2] = 0.5500
+
+         X[3] = 0.8250
+
+         X[4] = 1.1000
+
+         X[5] = 1.3750
+
+         X[6] = 1.6500
+
+         X[7] = 1.9250
+
+         X[8] = 2.2000
+
+         X[9] = 2.4750
+
+         X[10] = 2.7500
+
+
+         The values of the function for each parameters for 10 number of segment
+s are...
+
+         Press enter for next results...
+
+         F[0] = 0.3956322
+
+         F[1] = 0.3804905
+
+         F[2] = 0.3386530
+
+         F[3] = 0.2794319
+
+         F[4] = 0.2143471
+
+         F[5] = 0.1534243
+
+         F[6] = 0.1029321
+
+         F[7] = 0.0650555
+
+         F[8] = 0.0389457
+
+         F[9] = 0.0222092
+
+         F[10] = 0.0121332
+
+
+      Intermediate sums of F(Xi) for i = 1,3,5... is...
+
+      Press enter for next results...
+
+
+      ------ 1.5219620 ------
+
+      ------ 1.1177274 ------
+
+      ------ 0.6136971 ------
+
+      ------ 0.2602220 ------
+
+      ------ 0.0888368 ------
+
+
+      Intermediate sums of F(Xi) for i = 2,4,6... is...
+
+      Press enter for next results...
+
+
+      ------ 0.6773060 ------
+
+      ------ 0.4286942 ------
+
+      ------ 0.2058641 ------
+
+      ------ 0.0778915 ------
+
+
+      The sum of terms is...
+      Press enter for next results...
+
+      ------ 5.3999666 ------
+
+
+      Probability density function of Student T Distribution for
+      10 number of segments is
+
+      Press enter for next results...
+
+      ------ 0.494996940029 ------
+	         The values of function parameters for 20 number of segments are...
+
+       Press enter for next results...
+
+
+       X[0] = 0.0000
+
+       X[1] = 0.1375
+
+       X[2] = 0.2750
+
+       X[3] = 0.4125
+
+       X[4] = 0.5500
+
+       X[5] = 0.6875
+
+       X[6] = 0.8250
+
+       X[7] = 0.9625
+
+       X[8] = 1.1000
+
+       X[9] = 1.2375
+
+       X[10] = 1.3750
+
+       X[11] = 1.5125
+
+       X[12] = 1.6500
+
+       X[13] = 1.7875
+
+       X[14] = 1.9250
+
+       X[15] = 2.0625
+
+       X[16] = 2.2000
+
+       X[17] = 2.3375
+
+       X[18] = 2.4750
+
+       X[19] = 2.6125
+
+       X[20] = 2.7500
+
+
+         The values of the function for each parameters for 20 number of segment
+s are...
+
+         Press enter for next results...
+
+         F[0] = 0.3956322
+
+         F[1] = 0.3917876
+
+         F[2] = 0.3804905
+
+         F[3] = 0.3624256
+
+         F[4] = 0.3386530
+
+         F[5] = 0.3104997
+
+         F[6] = 0.2794319
+
+         F[7] = 0.2469247
+
+         F[8] = 0.2143471
+
+         F[9] = 0.1828729
+
+         F[10] = 0.1534243
+
+         F[11] = 0.1266499
+
+         F[12] = 0.1029321
+
+         F[13] = 0.0824163
+
+         F[14] = 0.0650555
+
+         F[15] = 0.0506599
+
+         F[16] = 0.0389457
+
+         F[17] = 0.0295787
+
+         F[18] = 0.0222092
+
+         F[19] = 0.0164979
+
+         F[20] = 0.0121332
+
+
+
+     Intermediate sums of F(Xi) for i = 1,3,5... is...
+
+     Press enter for next results...
+
+
+     ------ 1.5671503 ------
+
+     ------ 1.4497025 ------
+
+     ------ 1.2419989 ------
+
+     ------ 0.9876987 ------
+
+     ------ 0.7314915 ------
+
+     ------ 0.5065998 ------
+
+     ------ 0.3296651 ------
+
+     ------ 0.2026397 ------
+
+     ------ 0.1183148 ------
+
+     ------ 0.0659918 ------
+
+
+     Intermediate sums of F(Xi) for i = 2,4,6... is...
+
+     Press enter for next results...
+
+
+     ------ 0.7609810 ------
+
+     ------ 0.6773060 ------
+
+     ------ 0.5588637 ------
+
+     ------ 0.4286942 ------
+
+     ------ 0.3068486 ------
+
+     ------ 0.2058641 ------
+
+     ------ 0.1301110 ------
+
+     ------ 0.0778915 ------
+
+     ------ 0.0444184 ------
+
+
+     The sum of terms is...
+     Press enter for next results...
+
+     ------ 10.7999969 ------
+
+
+     Probability density function of Student T Distribution for
+     20 number of segments is
+
+     Press enter for next results...
+
+     ------ 0.494999858249 ------
+
+     The more accurate calculation is...
+     ------ 0.494996940029 ------
+
+
+
+
+
+
+
